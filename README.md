@@ -22,7 +22,7 @@ struct Developer ido = {
     .name       = "Ido Sulam",
     .focus      = { "Linux Kernel", "C/C++", "Network Security", "DPI Systems" },
     .location   = "Israel",
-    .education  = "B.Sc Computer Science @ HIT (2025-2028)",
+    .education  = "Associate Degree HIT",
     .experience = "IAF - Proxy-based Network DPI System",
     .status     = "Open to opportunities"
 };
