@@ -97,7 +97,7 @@ DEVOPS         |  Docker · Linux · Git · Makefile · Static Code Analysis
 <div align="center">
 
 ```
-// always learning. always building. always at the lowest level possible.
+// always learning. always building.
 ```
 
 </div>
