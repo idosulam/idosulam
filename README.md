@@ -87,7 +87,7 @@ DEVOPS         |  Docker · Linux · Git · Makefile · Static Code Analysis
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-idosulam.vercel.app-black?style=for-the-badge&logo=vercel)](https://portfolio-avg.pages.dev/)
+[![Portfolio](https://portfolio-avg.pages.dev/)](https://portfolio-avg.pages.dev/)
 [![Email](https://img.shields.io/badge/Email-idosulam03@gmail.com-black?style=for-the-badge&logo=gmail)](mailto:idosulam03@gmail.com)
 
 </div>
