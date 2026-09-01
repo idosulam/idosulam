@@ -22,8 +22,8 @@ struct Developer ido = {
     .name       = "Ido Sulam",
     .focus      = { "Linux Kernel", "C/C++", "Network Security", "DPI Systems" },
     .location   = "Israel",
-    .education  = "Associate Degree HIT",
-    .experience = "IAF - Proxy-based Network DPI System",
+    .education  = "Software Practical Engineer, ORT College",
+    .experience = "IAF - Proxy-based Network DPI System (POSIX)",
     .status     = "Open to opportunities"
 };
 ```
@@ -47,8 +47,8 @@ DEVOPS         |  Docker · Linux · Git · Makefile · Static Code Analysis
 
 ### 🔐 [keylogger](https://github.com/idosulam/keylogger) — Kernel-Level Keyboard Monitor
 
-> Linux kernel module in **C** that captures real-time keyboard events via the Linux keyboard notifier API.
-> Kernel to userspace communication over **Netlink sockets** · TCP forwarding to remote server · Custom raw socket packet construction (Ethernet/IP/UDP headers + checksums)
+> Personal research project. Linux kernel module in **C** that captures real-time keyboard events via the Linux keyboard notifier API.
+> Kernel-to-userspace communication over **Netlink sockets** · TCP forwarding to a remote server · custom raw socket packet construction (Ethernet/IP/UDP headers + checksums)
 
 `C` `Linux Kernel Modules` `Netlink Sockets` `Raw Sockets` `TCP/IP`
 
@@ -65,7 +65,7 @@ DEVOPS         |  Docker · Linux · Git · Makefile · Static Code Analysis
 
 ### 💬 [chat](https://github.com/idosulam/chat) — Low-Level Chat System
 
-> Built in C with low-level networking primitives.
+> Client/server chat built in C using low-level socket programming primitives.
 
 `C` `Socket Programming` `Networking`
 
@@ -74,11 +74,27 @@ DEVOPS         |  Docker · Linux · Git · Makefile · Static Code Analysis
 ## `> cat experience.txt`
 
 ```
-[2022-2024]  Low Level Software Developer @ IAF (Israeli Air Force)
-             |- Proxy-based DPI system on proprietary POSIX-compliant OS
-             |- Full project lifecycle: concept > deployment > on-site support
-             |- Docker-based calibration & remote device management
-             |- Secure modular backend architecture across multiple environments
+[2026-Present] IT Specialist & Automation @ KPMG
+               |- Bash automation for enterprise PC onboarding (~50% faster)
+               |- Parallelized backup/cloud-export scripts (~85% faster transfers)
+               |- Building an AI-powered onboarding agent for new interns
+               |- Tier 1/2 technical support across a US-domain enterprise environment
+
+[2022-2024]    Low Level Software Developer @ IAF (Israeli Air Force)
+               |- Proxy-based DPI system on a proprietary POSIX OS
+               |- Full project lifecycle: concept > deployment > on-site support
+               |- Docker-based calibration & remote device management
+               |- Secure modular backend architecture across multiple environments
+```
+
+---
+
+## `> cat certifications.txt`
+
+```
+Introduction to Cybersecurity                   | Cisco     | 2026
+Introduction to Generative AI and Agents        | Microsoft | 2026
+Introduction to GitHub                          | Microsoft | 2026
 ```
 
 ---
@@ -89,6 +105,7 @@ DEVOPS         |  Docker · Linux · Git · Makefile · Static Code Analysis
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--avg.pages.dev-black?style=for-the-badge&logo=cloudflare)](https://portfolio-avg.pages.dev/)
 [![Email](https://img.shields.io/badge/Email-idosulam03@gmail.com-black?style=for-the-badge&logo=gmail)](mailto:idosulam03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ido%20Sulam-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ido-sulam-a3993b296/)
 
 </div>
 
